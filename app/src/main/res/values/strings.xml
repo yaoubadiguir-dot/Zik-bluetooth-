@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zik Bluetooth</string>
+    <string name="welcome_message">Bienvenue sur Zik Bluetooth</string>
+    <string name="app_description">Écoutez de la musique ensemble via Bluetooth</string>
+</resources>
